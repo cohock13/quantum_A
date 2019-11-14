@@ -16,7 +16,7 @@ python Tunneling_1_1.py
  ```bash
 python Tunneling_!_2.py
 ```
-# 2.2,3次元量子箱のエネルギー分布
+# 2.二,三次元量子箱のエネルギー分布
 　2次元の場合
  ```bash
 python wave_3d.py
