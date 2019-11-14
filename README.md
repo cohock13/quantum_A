@@ -26,7 +26,10 @@ python wave_3d.py
 python wave_4d.py
 ```
 　量子数(n,m,l)を入力すると平面,空間でのエネルギー分布をプロットしてくれます.三次元に関しては少し見にくいかもしれせん…
+ 
 ・二次元
+
  ![wave_3d](https://user-images.githubusercontent.com/55901554/68842713-32b4d280-070a-11ea-8ebd-9ee256e1f49a.png)
 ・三次元
+
 ![wave_4d](https://user-images.githubusercontent.com/55901554/68842737-3c3e3a80-070a-11ea-8977-476f05fa7d64.png)
