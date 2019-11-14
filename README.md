@@ -5,6 +5,8 @@
   ```bash
 python Tunneling_1.py
 ```
+ 　右側の図のポテンシャル障壁の左側は入射波と反射波の合成となっています.
+![Tunneling_1](https://user-images.githubusercontent.com/55901554/68329146-03073880-0114-11ea-828e-d32bf497c2c8.gif)
 左側のみ
  ```bash
 python Tunneling_1_1.py
@@ -13,9 +15,6 @@ python Tunneling_1_1.py
  ```bash
 python Tunneling_!_2.py
 ```
- 　右側の図のポテンシャル障壁の左側は入射波と反射波の合成となっています.
-![Tunneling_1](https://user-images.githubusercontent.com/55901554/68329146-03073880-0114-11ea-828e-d32bf497c2c8.gif)
-
 # 2.2,3次元量子箱のエネルギー分布
 　2次元の場合
  ```bash
