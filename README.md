@@ -14,7 +14,7 @@ python Tunneling_1_1.py
 ```
 右側のみ
  ```bash
-python Tunneling__2.py
+python Tunneling_1_2.py
 ```
 # 2.二,三次元量子箱における波動関数の分布
 　2次元の場合
